@@ -1,0 +1,7 @@
+id,details,deptID,created_at,updated_at
+1,"Pay Bills",1,,
+2,"Keep Staff Records",1,,
+3,"Produce Financial Report",2,,
+4,"Manage Staff Loans",2,,
+5,"Recommend Communication Systems Specifications",3,,
+6,"Maintain Hardware and Systems",3,,
